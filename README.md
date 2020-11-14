@@ -1,4 +1,4 @@
 # CRUD
 
 
-![SS CREATE](image/ss1.png) 
+![SS CREATE](/image/ss1.png) 
