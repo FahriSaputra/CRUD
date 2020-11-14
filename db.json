@@ -1,0 +1,18 @@
+{
+  "produk": [
+    {
+      "namaProduk": "Remote TV",
+      "harga": "11111",
+      "jumlah": "111",
+      "keterangan": "remote",
+      "id": 4
+    },
+    {
+      "namaProduk": "Motor",
+      "harga": "123",
+      "jumlah": "111",
+      "keterangan": "Motor Bebek",
+      "id": 5
+    }
+  ]
+}
